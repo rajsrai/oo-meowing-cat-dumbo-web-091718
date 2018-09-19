@@ -4,5 +4,3 @@ class Cat
   meow = "meow!"
   name = "Maru"
 end
-
-puts meow
