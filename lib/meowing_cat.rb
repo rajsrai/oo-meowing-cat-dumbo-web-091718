@@ -3,5 +3,5 @@ class Cat
   attr_accessor :meow, :name
   meow = "meow!"
   name = "Maru"
-  name.meow
+  Maru.meow
 end
